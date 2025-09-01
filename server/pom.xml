@@ -24,8 +24,8 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.11.0</version>
         <configuration>
-          <source>17</source>   <!-- you can set 11 or 21 depending on what Tomcat/EC2 supports -->
-          <target>17</target>
+          <source>21</source>   <!-- you can set 11 or 21 depending on what Tomcat/EC2 supports -->
+          <target>21</target>
         </configuration>
       </plugin>
     </plugins>
